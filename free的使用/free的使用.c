@@ -13,16 +13,16 @@ void test01()
 
 	int n = strlen(buf);
 
-	//p++;
-	//for (int i = 0; i < n; i++)
-	//{
-	//	*p = buf[i];
-	//	p++;       // 改变原指针指向
-	//}
 
-	//printf("%s\n", p);
+	for (int i = 0; i < n; i++)
+	{
+		*p = buf[i];
+		p++;       // 改变原指针指向
+	}
 
-	free(p);
+	printf("%s\n", p);
+
+	free(p); // error : 必须从malloc开启的首地址开始释放
 
 
 }
