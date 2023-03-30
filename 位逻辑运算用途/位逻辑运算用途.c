@@ -51,8 +51,6 @@ void test05()
 
 	printf("a: %d\n", a);
 	printf("b: %d\n", b);
-
-
 }
 
 
