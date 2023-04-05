@@ -59,6 +59,7 @@ void test01()
 		memset(&temps, 0, sizeof(temps));
 		fread(&temps, 1, sizeof(Teacher), fp);
 		printf("name:%s, age: %d\n", temps.name, temps.age);
+
 	}
 	fclose(fp);
 

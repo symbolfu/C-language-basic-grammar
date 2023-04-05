@@ -99,6 +99,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作_格式化读�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件随机读写操作", "文件随机读写操作\文件随机读写操作.vcxproj", "{07FA51D9-8BDB-44FA-AB95-7D13269DC06B}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作_读写案例", "文件操作_读写案例\文件操作_读写案例.vcxproj", "{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -491,6 +493,14 @@ Global
 		{07FA51D9-8BDB-44FA-AB95-7D13269DC06B}.Release|x64.Build.0 = Release|x64
 		{07FA51D9-8BDB-44FA-AB95-7D13269DC06B}.Release|x86.ActiveCfg = Release|Win32
 		{07FA51D9-8BDB-44FA-AB95-7D13269DC06B}.Release|x86.Build.0 = Release|Win32
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Debug|x64.ActiveCfg = Debug|x64
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Debug|x64.Build.0 = Debug|x64
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Debug|x86.ActiveCfg = Debug|Win32
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Debug|x86.Build.0 = Debug|Win32
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x64.ActiveCfg = Release|x64
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x64.Build.0 = Release|x64
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x86.ActiveCfg = Release|Win32
+		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
