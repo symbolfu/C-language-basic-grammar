@@ -101,6 +101,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件随机读写操作", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作_读写案例", "文件操作_读写案例\文件操作_读写案例.vcxproj", "{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件加密解密", "文件加密解密\文件加密解密.vcxproj", "{B56B7FDE-F346-4D97-89E0-F547830860D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -501,6 +503,14 @@ Global
 		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x64.Build.0 = Release|x64
 		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x86.ActiveCfg = Release|Win32
 		{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}.Release|x86.Build.0 = Release|Win32
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Debug|x64.ActiveCfg = Debug|x64
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Debug|x64.Build.0 = Debug|x64
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Debug|x86.Build.0 = Debug|Win32
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x64.ActiveCfg = Release|x64
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x64.Build.0 = Release|x64
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x86.ActiveCfg = Release|Win32
+		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
