@@ -57,7 +57,7 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "位逻辑运算符", "位�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "位逻辑运算用途", "位逻辑运算用途\位逻辑运算用途.vcxproj", "{40D1224B-139A-4202-8499-EF200FFB851F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "移动运算符", "移动运算符\移动运算符.vcxproj", "{1E71EAE3-568A-49A2-AC41-63F3BA0DE6F6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "移位运算符", "移动运算符\移动运算符.vcxproj", "{1E71EAE3-568A-49A2-AC41-63F3BA0DE6F6}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "一维数组", "一维数组\一维数组.vcxproj", "{F4CBD761-C4E9-4C0C-94CE-F8E64465DAB5}"
 EndProject
@@ -102,6 +102,10 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件操作_读写案例", "文件操作_读写案例\文件操作_读写案例.vcxproj", "{8808DFB2-59F3-4FFA-B4BC-0836B982CC98}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "文件加密解密", "文件加密解密\文件加密解密.vcxproj", "{B56B7FDE-F346-4D97-89E0-F547830860D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表_静态链表", "链表_静态链表\链表_静态链表.vcxproj", "{646C9B61-83C3-4259-B76F-0641A7E7A068}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表_动态链表", "链表_动态链表\链表_动态链表.vcxproj", "{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -511,6 +515,22 @@ Global
 		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x64.Build.0 = Release|x64
 		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x86.ActiveCfg = Release|Win32
 		{B56B7FDE-F346-4D97-89E0-F547830860D2}.Release|x86.Build.0 = Release|Win32
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Debug|x64.ActiveCfg = Debug|x64
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Debug|x64.Build.0 = Debug|x64
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Debug|x86.ActiveCfg = Debug|Win32
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Debug|x86.Build.0 = Debug|Win32
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Release|x64.ActiveCfg = Release|x64
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Release|x64.Build.0 = Release|x64
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Release|x86.ActiveCfg = Release|Win32
+		{646C9B61-83C3-4259-B76F-0641A7E7A068}.Release|x86.Build.0 = Release|Win32
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Debug|x64.ActiveCfg = Debug|x64
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Debug|x64.Build.0 = Debug|x64
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Debug|x86.ActiveCfg = Debug|Win32
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Debug|x86.Build.0 = Debug|Win32
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x64.ActiveCfg = Release|x64
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x64.Build.0 = Release|x64
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x86.ActiveCfg = Release|Win32
+		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
