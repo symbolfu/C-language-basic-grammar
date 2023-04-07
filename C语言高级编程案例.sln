@@ -107,6 +107,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表_静态链表", "链�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "链表_动态链表", "链表_动态链表\链表_动态链表.vcxproj", "{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "创建链表", "创建链表\创建链表.vcxproj", "{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -531,6 +533,14 @@ Global
 		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x64.Build.0 = Release|x64
 		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x86.ActiveCfg = Release|Win32
 		{CE0B7BF9-BC82-4C43-BB37-18E6856C5752}.Release|x86.Build.0 = Release|Win32
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Debug|x64.ActiveCfg = Debug|x64
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Debug|x64.Build.0 = Debug|x64
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Debug|x86.ActiveCfg = Debug|Win32
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Debug|x86.Build.0 = Debug|Win32
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Release|x64.ActiveCfg = Release|x64
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Release|x64.Build.0 = Release|x64
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Release|x86.ActiveCfg = Release|Win32
+		{A7753A57-98F2-499A-A9E6-4CAF0DD5DD30}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

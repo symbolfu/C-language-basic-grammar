@@ -48,7 +48,6 @@ void test01()
 		printf("id: %d; name = %s\n", pCurrent->id, pCurrent->name);
 		pCurrent = pCurrent->next;
 	}
-
 }
 
 
